@@ -4,7 +4,7 @@
 #                                                          #
 ############################################################
 
-# Add in your name
+# Ebuka
 # Claudia
 # Add in purpose of this script
 # To learn about version control on github
